@@ -39,6 +39,8 @@
  `json-server server.json -p 3333`
 
 And then:
+
+ `yarn`
  
  `yarn start`
 
