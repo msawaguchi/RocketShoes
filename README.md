@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img height="450" src="https://user-images.githubusercontent.com/28602785/80770440-b9c5fd80-8b26-11ea-83c1-75f79953bf09.png">
+  <img src="http://sawastudio.me/fi44/rocketshoes-git.png">
 </p>
 
 ## :pushpin: About
@@ -27,12 +27,13 @@
 
 ## :pushpin: Installation
 
+<p>To run this project, make sure you have <a href="https://nodejs.org/en/download/">Node.js</a> installed on your computer.</p>
 <p>Clone the repo:</p>
 
 `git clone https://github.com/msawaguchi/RocketShoes.git`
 
 <p id="rocketshoes_execute">
-    Start server by running the following command:
+    After entered inside the project directory using cd command, start server by running the following commands:
 </p>
 
  `yarn`
