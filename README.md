@@ -33,7 +33,7 @@
 `git clone https://github.com/msawaguchi/RocketShoes.git`
 
 <p id="rocketshoes_execute">
-    After entered inside the project directory using cd command, start server by running the following commands:
+    After entering inside the project directory using cd command, start server by running the following commands:
 </p>
 
  `yarn`
